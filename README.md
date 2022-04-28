@@ -4,7 +4,7 @@ Taxi project for managing drivers and cars in taxi-service
 
 ## Check it out!
 
-[Taxi project deployed to Heroku](PASTE_LINK_HERE)
+[Taxi project deployed to Heroku](https://taxi-service-project.herokuapp.com/)
 
 ## Installation
 
