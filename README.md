@@ -31,3 +31,9 @@ python manage.py runserver # starts Django Server
 
 ![Admin Interface](demo2.png)
 
+## Hint
+In order to test app use test-user:
+
+	Username = user
+    Password = barabaka123
+
