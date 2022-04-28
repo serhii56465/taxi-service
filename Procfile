@@ -1,1 +1,1 @@
-web: gunicorn library.wsgi --log-file -
+web: gunicorn taxi_service.wsgi --log-file -
