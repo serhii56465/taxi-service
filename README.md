@@ -1,4 +1,4 @@
-#Taxi-service
+## Taxi-service
 
 Taxi project for managing drivers and cars in taxi-service
 
@@ -12,7 +12,6 @@ Python3 must be already installed
 
 ```shell
 git clone https://github.com/serhii56465/taxi-service.git
-cd taxi-service
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
